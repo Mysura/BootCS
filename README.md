@@ -1,5 +1,5 @@
 
-
+.
 ### Create a test user
 
 Endpoint:
